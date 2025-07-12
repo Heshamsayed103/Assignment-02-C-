@@ -1,0 +1,15 @@
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\bin\Debug\net8.0\Assignment 02 C#.exe
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\bin\Debug\net8.0\Assignment 02 C#.deps.json
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\bin\Debug\net8.0\Assignment 02 C#.runtimeconfig.json
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\bin\Debug\net8.0\Assignment 02 C#.dll
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\bin\Debug\net8.0\Assignment 02 C#.pdb
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\Assignment 02 C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\Assignment 02 C#.AssemblyInfoInputs.cache
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\Assignment 02 C#.AssemblyInfo.cs
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\Assignment 02 C#.csproj.CoreCompileInputs.cache
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\Assignment 02 C#.dll
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\refint\Assignment 02 C#.dll
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\Assignment 02 C#.pdb
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\Assignment 02 C#.genruntimeconfig.cache
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\ref\Assignment 02 C#.dll
+E:\Full Stack.Net(Route)\Back end\ASP.NET\Assignments Solutions\C # Assignments\Assignment 02 C#\Assignment 02 C#\obj\Debug\net8.0\Assignment 02 C#.sourcelink.json
